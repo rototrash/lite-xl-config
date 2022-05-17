@@ -1,0 +1,1 @@
+return {recents={[1]="/home/sid/.config/lite-xl"}, window={[1]=1892,[2]=1004,[3]=14,[4]=62,["n"]=4}, window_mode="normal", previous_find={[1]="DATADIR",[2]="italic",[3]="plugin",[4]="color",[5]="version",[6]="doc_save",[7]="pylsp"}, previous_replace={}}
